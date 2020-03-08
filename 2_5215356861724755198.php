@@ -1,7 +1,7 @@
 <?php
 $admin = '1002919466';
-$token = 'Token';
-$bot = 'TIMAKRUDBET_BOT';
+$token = '1035357676:AAFQNjzwb0pE1q8jatkpN9AjaT_3Hr1Dc6s';
+$bot = 'prosombot';
 
 //Ushbu bot kodi Temurriy Dakentiy Php_Builder tomonidan yangi yil sovgasi uchun tarqaldi//
 //Kanallarimiz; @UzBotMaster @Uz Coderlar//
