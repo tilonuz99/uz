@@ -1,3 +1,3 @@
 <?php
-echo "<h1>Salom</h1>t.me/tilon";
+echo "<h1>Xayr</h1>t.me/tilon";
 ?>
